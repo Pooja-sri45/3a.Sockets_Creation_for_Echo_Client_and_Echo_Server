@@ -34,6 +34,9 @@ while True:
 
 ## OUPUT
 ![image](https://github.com/Pooja-sri45/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147081893/5f1f7068-8bce-4339-9378-6bce0c90d559)
+
+
+
 ![image](https://github.com/Pooja-sri45/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147081893/c73056bd-76d0-4989-8948-0e4da9f5738a)
 
 
